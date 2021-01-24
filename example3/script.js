@@ -16,14 +16,27 @@ function init() {
 
     // create a scene and a camera
     scene = new THREE.Scene()
-    scene.background = new THREE.Color(1,1,1)
+    scene.background = new THREE.Color(0xC9C9C9)
     camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 )
-    camera.position.y = - 100
+    camera.position.y = - 700
+    camera.position.z=500
+
+    
 
     // create the renderer and add it to the html
     renderer = new THREE.WebGLRenderer( { antialias: true } )
     renderer.setSize( window.innerWidth, window.innerHeight )
     document.body.appendChild( renderer.domElement )
+
+    // adjusting scene size with window size
+    window.addEventListener('resize',()=>{
+        render.setSize(window.innerWidth,window.innerHeight);
+        camera.aspect = window.innerWidth/window.innerHeight;
+
+        camera.updateProjectionMatrix();
+    })
+
+
 
     const controls = new OrbitControls( camera, renderer.domElement )
 
@@ -33,12 +46,23 @@ function init() {
     directionalLight.intensity = 2
     scene.add( directionalLight )
 
+    //Adding point lights
+    let light1 = new THREE.PointLight(0xFFFFFF,1,500)
+    light1.position.set(100,-100,100);
+    scene.add(light1);
+
+    let light = new THREE.PointLight(0xFFFFFF,1,500)
+    light.position.set(-100,-100,100);
+    scene.add(light);
+
+
+
     raycaster = new THREE.Raycaster()
 
     const loader = new Rhino3dmLoader()
     loader.setLibraryPath( 'https://cdn.jsdelivr.net/npm/rhino3dm@0.13.0/' )
 
-    loader.load( 'sphere.3dm', function ( object ) {
+    loader.load( 'Simplexity.3dm', function ( object ) {
 
         document.getElementById('loader').remove()
         scene.add( object )
@@ -79,7 +103,7 @@ function onClick( event ) {
         const object = intersects[0].object
         console.log(object) // debug
 
-        object.material.color.set( 'yellow' )
+        object.material.color.set( 'red' )
 
         // get user strings
         let data, count
@@ -117,6 +141,8 @@ function onClick( event ) {
 function animate() {
 
     requestAnimationFrame( animate )
+
+    
     renderer.render( scene, camera )
 
 }

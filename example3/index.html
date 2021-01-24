@@ -1,15 +1,42 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8">
-		<title>S1 - Lecture 2 - Example 3</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<title>Simplexity with Symmetry</title>
 		<style>
-			body { margin: 0; }
+           
+        
+
+			body { margin: 0;
+                   height:100vh
+                   
+                    }
+
+            canvas{
+                display:block;
+            }       
+
+            h1{
+                font-family: monospace ;
+                position:absolute;
+                top: 10%;
+                left: 70%
+                
+
+                
+            }
+            p{
+                font-family: monospace;
+                position:absolute;
+                top: 20%;
+                left: 70%
+            }
 
 			/* CSS for a spinning animation */ 
 			#loader {
-                border: 5px solid #f3f3f3; /* Light grey */
-                border-top: 5px solid #3d3d3d; /* Grey */
+                border: 5px solid #353535; /* Grey */
+                border-top: 5px solid #C9C9C9; /* Matching to background */
                 border-radius: 50%;
                 width: 40px;
                 height: 40px;
@@ -44,9 +71,43 @@
             }
             table td:first-child { border-left: none; }
 
-		</style>
+
+
+        </style>
+        <link href="styles.css" rel="stylesheet">
 	</head>
 	<body>
+        <div id="about">
+            <h1 >Simplexity by Symmetry</h1>
+            <p >Symmetry by simplexity is a project of IaaC, Institute for Advanced Architecture of Catalonia<br>
+                developed at <b>Master in Advanced Computation for Architecture & Design</b> in <b>(2020/2021)</b> by:<br>
+                Students: <b>Krishnanunni Vijayakumar, Keshava Narayan</b><br>
+                Faculties: <b></b>Arthur Mamou-Mani</b></p>
+        </div>
+
+        <button onclick="togglePopup()" font-family: monospace>Fabrication</button>
+        <div class="popup" id="popup-1">
+            <div class="overlay"></div>
+            <div class="content">
+               <div class="close-btn" onclick="togglePopup()">&times;</div>
+                  <h2>Fabrication</h2>
+              
+               <img class="fabrication" id="fabrication1" alt="Fabrication Techniques" src=https://sampleforblogiaac.files.wordpress.com/2020/12/fab1.jpg?w=960 width="400px">
+      <p>
+                      Based on the study models a truss assembly approach for fabrication was adopted.
+                       The individual timber strips extracted from the final form is bend individually in 
+                       a bending formwork and these bend timber strips are connected in pairs using steel brackets. 
+                       These paired timber strips forms a truss and this is then assembled together.
+          
+               </p>
+             </div>
+          </div>
+         <script>
+         function togglePopup(){
+
+            document.getElementById("popup-1").classList.toggle("active");
+
+          }</script>
 		<div id="loader"></div>
         <script type="module" src="./script.js"></script>
 	</body>

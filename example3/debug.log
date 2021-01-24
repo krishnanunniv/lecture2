@@ -1,0 +1,325 @@
+[0123/223415.789:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+[0123/223415.790:ERROR:cache_util.cc(140)] Unable to move cache folder GPUCache to old_GPUCache_000
+[0123/223415.790:ERROR:disk_cache.cc(184)] Unable to create cache
+[0123/223415.790:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+[0123/223416.162:WARNING:angle_platform_impl.cc(52)] compileToBinary(232): 
+C:\fakepath(35,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(43,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0123/223416.231:INFO:CONSOLE(6)] "The key "ie" is not recognized and ignored.", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/index.html (6)
+[0123/223417.711:INFO:CONSOLE(1343)] "[Vuetify] Vuetify requires Vue version ^2.5.18", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/223417.797:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientReceiverAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/223417.799:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientReceiverAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/223417.866:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/223418.125:INFO:CONSOLE(1382)] "Setting base host application as Rhino", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/223418.127:INFO:CONSOLE(1382)] "[{"accountId":2,"serverName":"Speckle Hestia","restApi":"https://hestia.speckle.works/api","email":"krishnavijay733@gmail.com","token":"JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDBjMWJhNjcwMTlmODBhZTBlZjU5YzQiLCJpYXQiOjE2MTE0MDYyNDYsImV4cCI6MTY3NDUyMTQ0Nn0.WFdW9P4WWoDOTLoQySDPU9ufIERnjhc84iVcedx1HwA","isDefault":false}]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/223418.128:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/223418.133:INFO:CONSOLE(1)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1)
+[0123/223418.134:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientReceiverAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/223418.135:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientReceiverAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/223418.149:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/223418.149:INFO:CONSOLE(1)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1)
+[0123/223418.150:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/223418.175:INFO:CONSOLE(1382)] "getallclients", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/223418.472:WARNING:angle_platform_impl.cc(52)] compileToBinary(232): 
+C:\fakepath(54,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(62,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0123/223419.427:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientReceiverAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/223419.427:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientReceiverAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/223425.855:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/223425.894:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224114.974:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224114.981:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224122.488:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224122.491:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224125.199:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224125.203:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224125.745:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224125.750:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224309.797:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224309.800:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224309.973:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224309.977:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224310.539:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224310.541:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224316.352:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224316.356:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224321.361:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224321.365:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224354.766:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224354.770:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224355.763:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224355.765:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224356.464:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224356.467:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224356.923:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224356.928:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224358.473:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224358.478:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224359.010:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224359.013:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224430.896:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224430.900:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
+[0123/224433.138:INFO:CONSOLE(1382)] "[object Object]", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1382)
+[0123/224433.142:INFO:CONSOLE(1343)] "[Vuetify] '<v-select autocomplete>' is deprecated, use '<v-autocomplete>' instead
+
+found in
+
+---> <VSelect>
+       <ClientSenderAdd>
+         <AccountsManager>
+           <VContent>
+             <VApp>
+               <App>
+                 <Root>", source: file:///C:/Users/ASUS/AppData/Roaming/McNeel/Rhinoceros/6.0/Plug-ins/Speckle%20Rhino%20Plugin%20(512d9705-6f92-49ca-a606-d6d5c1ac6aa2)/app/dist/build.js (1343)
